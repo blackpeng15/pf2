@@ -1,0 +1,135 @@
+footer {
+    margin-top: 100px;
+    background-color: #1b1b1b;
+}
+footer div.inner {
+    height: 288px;
+}
+
+footer div.inner > div {
+
+}
+
+footer div.inner div.left {
+    
+}
+
+footer div.inner div.left h1 {
+    
+}
+
+footer div.inner div.left h1 a {
+    font-size: 0;
+    display: block;
+    width: 113px;
+    height: 30px;
+    background-image: url(../images/f_logo.png);
+}
+
+footer div.inner div.left address {
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 40px;
+    transform: translateY(-60px);
+    letter-spacing: -1px;
+}
+
+footer div.inner div.left p.copyright {
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 14px;
+}
+
+footer div.inner div.right {
+    align-items: end;
+}
+
+footer div.inner div.right ul.persnol {
+    gap: 40px;
+}
+
+footer div.inner div.right ul.persnol li {
+    
+}
+
+footer div.inner div.right ul.persnol li a {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    letter-spacing: -0.7px;
+}
+
+footer div.inner div.right div.bottom {
+    gap: 60px;   
+}
+
+footer div.inner div.right div.bottom ul.sns {
+    gap: 20px;
+}
+
+footer div.inner div.right div.bottom ul.sns li {
+    
+}
+
+footer div.inner div.right div.bottom ul.sns li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 0;
+    width: 70px;
+    height: 70px;
+    box-shadow: 0px 4px 8px 1px rgba(0, 0, 0, 0.36), inset 0px 4px 10.8px 2.2px rgba(73, 73, 73, 0.11);
+    background-color: #1b1b1b;
+    border-radius: 50%;
+}
+
+footer div.inner div.right div.bottom .sns a:hover img {
+    transform: scale(0.9);
+}
+
+footer div.inner div.right div.bottom ul.sns li:nth-child(1) a img {
+    width: 19px;
+    height: 19px;
+}
+
+footer div.inner div.right div.bottom ul.sns li:nth-child(2) a img {
+    width: 20px;
+    height: 14px;
+}
+
+footer div.inner div.right div.bottom ul.sns li:nth-child(3) a img {
+    width: 37px;
+    height: 20px;
+}
+
+footer div.inner div.right div.bottom .flag_box {
+    width: 355px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    border-radius: 35px;
+    box-shadow: 0px 4px 8px 1px rgba(0, 0, 0, 0.36), inset 0px 4px 10.8px 2.2px rgba(73, 73, 73, 0.11);
+    background-color: #1b1b1b;
+    background: #1b1b1b url(../images/select_btn01.png) no-repeat center right 30px;
+    position: relative;
+    cursor: pointer;
+}
+
+footer div.inner div.right div.bottom .flag_box a {
+    color: #fff; 
+}
+
+footer div.inner div.right div.bottom .flag_box a span {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 12px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+footer div.inner div.right div.bottom .flag_box a span strong {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: bold;
+}
